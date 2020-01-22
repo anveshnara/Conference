@@ -1,0 +1,8 @@
+com/conference/AppConfig.class
+com/conference/model/Conference.class
+com/conference/repository/SpeakerRepositoryImpl.class
+com/conference/Application.class
+com/conference/service/SpeakerServiceImpl.class
+com/conference/service/SpeakerService.class
+com/conference/repository/SpeakerRepository.class
+com/conference/model/Speaker.class
